@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Bibhu-developer
-- 👀 I’m little bit into everything : Python, C, HTML & CSS 
-- 🌱 I’m currently learning HTML & CSS
-- 💞️ Instagram Handle @yajnadatta_pattanayak
-- ⚡ Skills : Photography & Singing
+- 👀 I’m little bit into everything : Python, C, HTML & Java 
 
 <!---
 Bibhu-developer/Bibhu-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
